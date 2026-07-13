@@ -40,13 +40,15 @@ Tech:
 
 ### BookingMate
 
-Salon and appointment management platform.
+A tap-to-book salon & appointment platform. Customers book in seconds from one link — no calls, no app — while database-level slot locking makes double-bookings impossible. Includes a shared staff schedule (walk-ins, breaks, holidays), automated WhatsApp confirmations & reminders, an installable PWA, and multi-company support with admin onboarding.
 
 Tech:
-- React
+- Next.js (App Router) & TypeScript
 - Node.js
-- REST API
-- Database design
+- PostgreSQL (node-postgres)
+- Tailwind CSS
+- WhatsApp Cloud API
+- PWA · cookie-session auth
 
 
 ## 🛠 Technologies
