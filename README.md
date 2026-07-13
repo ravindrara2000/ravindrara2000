@@ -98,11 +98,16 @@ Mobile:
 Ionic | Capacitor | Android | iOS
 
 Database:
-MySQL | PostgreSQL
+MySQL | PostgreSQL | MongoDB
 
 DevOps:
-Docker | Linux | Azure
+Docker | Linux | Azure | Nginx
 
+AI & Automation:
+Claude Code | agentic coding | AI-assisted software development | prompt engineering | LLM integration
+
+Testing:
+PHPUnit | JUnit
 
 ## Available for Freelance
 
@@ -114,3 +119,5 @@ I help companies with:
 ✅ ERP customization
 ✅ Bug fixing and maintenance
 ✅ AI integrations
+✅ Mobile Apps, Android, IOS, Hybrid
+✅ Wordpress
