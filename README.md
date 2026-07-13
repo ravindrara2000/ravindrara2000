@@ -30,20 +30,38 @@ Tech:
 
 ### Vanheurck ERP Customization (Havep AT)
 
-Tailored and deployed the VH ERP platform for a Belgian protective-clothing manufacturer, covering BOMs with size matrices, raw material composition tracking, production planning, and regulatory technical sheets in five languages.
+Tailored and deployed the VH ERP platform for a Belgian protective-clothing manufacturer, covering BOMs with size matrices, raw material composition tracking, production planning, and regulatory technical sheets.
 
 Tech:
 - PHP
 - MySQL
+- REST APIs
 - Apache/Nginx
 - Linux
 - Docker
 
 ### VanHeurck ERP
+Custom-built multi-module ERP platform for a textile manufacturing company, supporting sales orders, supplier orders, production planning, and inventory management, with RESTful integrations for fabric inventory synchronization and production consumption tracking.
 
-### VanHeurck ERP
+Tech:
+- PHP
+- MySQL
+- REST APIs
+- Apache/Nginx
+- Linux
+- Docker
 
 ### VanHeurck B2B Webshop
+Multilingual WooCommerce-based B2B webshop with custom Timber/Twig theme, automated real-time ERP synchronization of catalogue and stock, and a customer portal for order history, tracking, and account-specific data.
+
+Tech:
+- WordPress
+- WooCommerce
+- PHP
+- Twig
+- MySQL
+- JavaScript
+- Composer
 
 ### VH Warehouse PDA Apps — Android Stock Management
 
