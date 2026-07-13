@@ -64,7 +64,15 @@ Tech:
 - Composer
 
 ### VH Warehouse PDA Apps — Android Stock Management
+Android applications for rugged handheld PDA devices used inside VanHeurck's warehouse to manage stock in real time. Enabled warehouse staff to scan barcodes for goods receiving, stock transfers, picking, and inventory counting, with all movements synchronized directly to the VH ERP, eliminating manual stock entry and improving inventory accuracy.
 
+Tech:
+- Android
+- Java
+- REST APIs
+- MySQL
+- barcode scanning
+  
 ### BookingMate
 
 A tap-to-book salon & appointment platform. Customers book in seconds from one link — no calls, no app — while database-level slot locking makes double-bookings impossible. Includes a shared staff schedule (walk-ins, breaks, holidays), automated WhatsApp confirmations & reminders, an installable PWA, and multi-company support with admin onboarding.
