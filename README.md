@@ -14,8 +14,8 @@ With 15+ years of experience, I have worked on:
 
 ## 🚀 Featured Work
 
-### ArcShield
-Industrial safety application for arc flash calculations.
+### VH ARC / Havep ArcShield
+Arc Flash Safety Platform: Architected and developed the original VH ARC cross-platform safety application (Android, iOS, Web/PWA) for PPE selection and incident energy calculation compliant with IEEE 1584 and Ralph Lee methodologies, with offline-first sync, QR scanning, PDF generation, and English/Dutch localization. Subsequently extended the platform with new features and delivered it as Havep ArcShield for the sister company HAVEP. Technologies: Ionic React, TypeScript, Capacitor, PHP 8, MySQL, OAuth2, ML Kit, Docker.
 
 Tech:
 - Ionic React
@@ -23,12 +23,14 @@ Tech:
 - Capacitor
 - PHP 8
 - MySQL
+- OAuth2
+- ML Kit
 - Docker
 
 
-### ERP Manufacturing Platform
+### Vanheurck ERP Customization (Havep AT)
 
-Enterprise ERP customization for European manufacturing companies.
+Tailored and deployed the VH ERP platform for a Belgian protective-clothing manufacturer, covering BOMs with size matrices, raw material composition tracking, production planning, and regulatory technical sheets in five languages.
 
 Tech:
 - PHP
