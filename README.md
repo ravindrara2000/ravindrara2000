@@ -1,6 +1,6 @@
 # Hi, I'm Ravindra 👋
 
-Senior Full Stack Engineer | PHP | React | Node.js | Mobile | AI
+Senior Full Stack Engineer | PHP | React | Node.js | Mobile Apps | ERP | AI Integration
 
 I build scalable business applications, ERP systems, APIs, and mobile applications.
 
